@@ -11,7 +11,7 @@ This portfolio showcases selected projects where I apply data science to solve r
 
 ### 1. Fraud Detection & Cost Optimization
 Evaluated insurance claim models and optimized fraud investigation thresholds using cost-sensitive decision analysis.
-
+👉 [View Project](./fraud-detection-cost-optimization)
 **Key Results:**
 - Selected the best-performing model using cross-validated MAE and confidence intervals
 - Derived a 10% investigation threshold based on cost assumptions
