@@ -27,14 +27,27 @@ The goal of this project is to evaluate predictive models and optimize investiga
 ---
 
 ## 📂 Project Deliverables
-This project includes a technical memo, presentation slides, and supporting analysis:
+This project includes a full set of business and technical deliverables:
 
-- 📊 [Technical Memo](./technical%20memo.pdf)
-- 📈 [Model Evaluation Slides](./Should%20We%20Upgrade%20Our%20Claim%20Severity%20Model%20A%20Data-Driven%20Evaluation.pptx)
-- 🔍 [Fraud Investigation Slides](./Should%20We%20Investigate%20This%20Claim.pptx)
-- 📉 [Threshold Optimization Slides](./Are%20We%20Using%20the%20Right%20Fraud%20Threshold.pptx)
-- 📄 [Full Analysis Report / Code Output](./Fraud%20detection%20cost%20optimization%20code.pdf)
+- 📊 **Technical Memo**  
+  Concise summary of modeling approach, evaluation, and business recommendations  
+  👉 [View PDF](./technical%20memo.pdf)
 
+- 📈 **Model Evaluation Slides**  
+  Compares model performance, error behavior, and selection rationale  
+  👉 [Download Slides](./Should%20We%20Upgrade%20Our%20Claim%20Severity%20Model%20A%20Data-Driven%20Evaluation.pptx)
+
+- 🔍 **Fraud Investigation Slides**  
+  Demonstrates how model outputs translate into real investigation decisions  
+  👉 [Download Slides](./Should%20We%20Investigate%20This%20Claim.pptx)
+
+- 📉 **Threshold Optimization Slides**  
+  Shows cost trade-offs and how the optimal fraud threshold was selected  
+  👉 [Download Slides](./Are%20We%20Using%20the%20Right%20Fraud%20Threshold.pptx)
+
+- 📄 **Full Analysis Report / Code Output**  
+  Detailed analysis, modeling workflow, and results documentation  
+  👉 [View PDF](./Fraud%20detection%20cost%20optimization%20code.pdf)
 ---
 
 ## Tools
