@@ -26,11 +26,13 @@ The goal of this project is to evaluate predictive models and optimize investiga
 
 ---
 
-## Deliverables
+## 📂 Project Deliverables
+This project includes a technical memo, presentation slides, and supporting analysis:
 
-- Technical memo (business-focused analysis)  
-- Presentation slides (clear communication of insights)  
-- Reproducible code (R + Quarto)  
+- 📊 [Technical Memo](./technical%20memo.pdf)
+- 📈 [Model Evaluation Slides](./Should%20We%20Upgrade%20Our%20Claim%20Severity%20Model%20A%20Data-Driven%20Evaluation.pptx)
+- 🔍 [Fraud Investigation Slides](./Should%20We%20Investigate%20This%20Claim.pptx)
+- 📄 [Full Analysis Report](./Fraud%20detection%20cost%20optimization.pdf)
 
 ---
 
