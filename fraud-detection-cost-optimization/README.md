@@ -32,7 +32,8 @@ This project includes a technical memo, presentation slides, and supporting anal
 - 📊 [Technical Memo](./technical%20memo.pdf)
 - 📈 [Model Evaluation Slides](./Should%20We%20Upgrade%20Our%20Claim%20Severity%20Model%20A%20Data-Driven%20Evaluation.pptx)
 - 🔍 [Fraud Investigation Slides](./Should%20We%20Investigate%20This%20Claim.pptx)
-- 📄 [Full Analysis Report](./Fraud%20detection%20cost%20optimization.pdf)
+- 📉 [Threshold Optimization Slides](./Are%20We%20Using%20the%20Right%20Fraud%20Threshold.pptx)
+- 📄 [Full Analysis Report / Code Output](./Fraud%20detection%20cost%20optimization%20code.pdf)
 
 ---
 
